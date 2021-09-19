@@ -1,5 +1,5 @@
 # maskiproxy
-**Twórca:** lolikotek
+**Twórca:** okbash (oryginał), lolikotek
 
 **Jezyk:** python 3
 
